@@ -12,7 +12,7 @@ Please check the official laravel installation guide for server requirements bef
 
 Clone the repository or download the project from github
 
-    git clone https://github.com/savitha7/laravel8-multi-auth-pm.git
+    git clone https://github.com/savitha7/larave8-multi-guards-auth.git
 
 Install all the dependencies using composer 
 
