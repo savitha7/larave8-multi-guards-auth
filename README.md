@@ -1,5 +1,5 @@
 # larave8-multi-guards-auth
-Laravel 8 Multiple Guards Authentication
+
 Laravel 8 Multiple Guards Authentication - admin & user Guards 
 ----------------------------------------------------------------
 
